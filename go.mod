@@ -1,4 +1,4 @@
-module hackaton-poc.com
+module github.com/aniket-bhange/dragonboat-example
 
 go 1.19
 
